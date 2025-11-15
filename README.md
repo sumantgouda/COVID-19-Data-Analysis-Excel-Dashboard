@@ -68,4 +68,4 @@ Interactive Filters (Slicers)
 * Test volume strongly influences the number of detected new cases.
 
 # Dashboard Screenshot
-<a "https://github.com/sumantgouda/COVID-19-Data-Analysis-Excel-Dashboard/blob/main/Screenshot%20(21).png> View Dashboard </a>
+- <a "https://github.com/sumantgouda/COVID-19-Data-Analysis-Excel-Dashboard/blob/main/Screenshot%20(21).png> View Dashboard </a>
