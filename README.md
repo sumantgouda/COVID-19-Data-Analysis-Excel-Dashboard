@@ -19,46 +19,46 @@ Data Includes:
 
 # Tools & Techniques Used
 Tools
-*Microsoft Excel
-*Pivot Tables
-*Pivot Charts
-*Slicers
-*Data Cleaning (Power Query optional)
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Data Cleaning (Power Query optional)
 
 Techniques
-*Data Cleaning & Preparation
-*Trend Analysis
-*Comparative Analysis
-*Visual Analytics
-*Dashboard Design
-*Performance Indicators (KPIs)
+* Data Cleaning & Preparation
+* Trend Analysis
+* Comparative Analysis
+* Visual Analytics
+* Dashboard Design
+* Performance Indicators (KPIs)
 
 # Dashboard Features
 The dashboard includes the following components:
 
 KPIs (Top Cards)
-*Total Cases
-*Total Recovered
-*Tests Conducted
-*Total Vaccination
-*Total Deaths
-*Active Cases
+* Total Cases
+* Total Recovered
+* Tests Conducted
+* Total Vaccination
+* Total Deaths
+* Active Cases
 
 Charts & Analysis
-*Total Cases by Country
+* Total Cases by Country
 * % of Total Deaths by Country
-*Monthly Death Trend
-*New Cases vs Recoveries
-*Total Cases by State
-*Monthly New Cases Trend
-*Tests Conducted vs New Cases
-*Vaccination Distribution by Country
+* Monthly Death Trend
+* New Cases vs Recoveries
+* Total Cases by State
+* Monthly New Cases Trend
+* Tests Conducted vs New Cases
+* Vaccination Distribution by Country
 
 Interactive Filters (Slicers)
-*Country
-*State
-*City
-*Report Date
+* Country
+* State
+* City
+* Report Date
 
 # Key Insights
 * India, Germany, and USA show higher total case volumes compared to other regions.
@@ -68,4 +68,4 @@ Interactive Filters (Slicers)
 * Test volume strongly influences the number of detected new cases.
 
 # Dashboard Screenshot
-<a "
+<a "https://github.com/sumantgouda/COVID-19-Data-Analysis-Excel-Dashboard/blob/main/Screenshot%20(21).png> View Dashboard </a>
