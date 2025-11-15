@@ -61,11 +61,16 @@ Interactive Filters (Slicers)
 * Report Date
 
 # Key Insights
-* India, Germany, and USA show higher total case volumes compared to other regions.
-* Monthly new case trends indicate fluctuations with visible peaks in several months.
-* Vaccination distribution shows balanced coverage across selected countries.
-* Recovery numbers in countries like Brazil and India show strong upward movement.
-* Test volume strongly influences the number of detected new cases.
+* India, Germany, and the USA report the highest number of total COVID-19 cases among the selected countries.
+* Monthly new cases show fluctuating trends with noticeable peaks, indicating multiple waves of infection.
+* Vaccination distribution is fairly balanced across countries, suggesting consistent vaccination efforts.
+* Total deaths contribute around 19%–21% across countries, showing similar mortality impact among the regions.
+* New recoveries consistently outpace new cases in some countries, indicating improved recovery rates.
+* Test conducted vs. new cases chart shows that higher testing volume directly increases reported new cases.
+* State-wise analysis reveals significant variation, with some states reporting extremely high case counts compared to others.
+* Monthly death trends show a gradual decline toward the end of the year, suggesting improved medical response and containment.
+* Active case count remains high despite recoveries, indicating continuous virus transmission.
+* Filters (Country, State, City) allow deeper analysis and highlight regional differences in spread, testing, and recovery.
 
 # Dashboard Screenshot
 - <a href="https://github.com/sumantgouda/COVID-19-Data-Analysis-Excel-Dashboard/blob/main/Screenshot%20(21).png"> View Dashboard </a>
