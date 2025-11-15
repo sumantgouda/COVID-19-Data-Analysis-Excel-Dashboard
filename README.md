@@ -7,7 +7,7 @@ To analyze global COVID-19 trends by visualizing total cases, recoveries, deaths
 
 # Dataset Information
 Dataset Format: Excel 
-- Data Includes:
+  Data Includes:
 * Country, State, City
 * Report Date
 * Total Cases
